@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js $PORT"
+    "start": "echo \"App starting \" && node index.js $PORT"
   },
   "engines": {
   "node": "18.x"
